@@ -1,0 +1,24 @@
+el grupo
+Austin Dragone
+Miguel Chavez
+Kyle Ferguson
+Brandon Marcoux
+
+COP 4020
+Matthew Fontaine
+1/28/17
+
+REMINDER: make this a pdf before submitting
+
+Problem 2
+a) only 5 is equivalent.
+
+b) 
+1. Illegal, you can only prepend single elements to a list with colon
+2. Legal
+3. Illegal, you can't prepend a list to another list with colon
+4. Illegal, you can't prepend a list to another list with colon
+5. Legal
+6. Illegal, you can't prepend a number to a char list
+
+c) ([3,4,7,5,8], [3,4,7,5,8])
